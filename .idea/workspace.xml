@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e3390471-f5b9-4a93-aea7-9e8633795fe1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZJM6QF1YignYX7X1q6MBFK2hoP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/python3基础语法/louplus" />
+      <recent name="$PROJECT_DIR$/python3基础语法" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.listbugtest">
+    <configuration name="ex06-02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonShiyanlou" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python3基础语法" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python3基础语法/ex06-02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex06-03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonShiyanlou" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python3基础语法" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python3基础语法/ex06-03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex06-04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonShiyanlou" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python3基础语法" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python3基础语法/ex06-04.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="funcbugtest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonShiyanlou" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python3基础语法" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python3基础语法/funcbugtest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="listbugtest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonShiyanlou" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python3基础语法/louplus" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python3基础语法/louplus/listbugtest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.listbugtest" />
+        <item itemvalue="Python.ex06-04" />
+        <item itemvalue="Python.ex06-03" />
+        <item itemvalue="Python.funcbugtest" />
+        <item itemvalue="Python.ex06-02" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3390471-f5b9-4a93-aea7-9e8633795fe1" name="Default Changelist" comment="" />
+      <created>1584552568329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584552568329</updated>
+      <workItem from="1584552573240" duration="1070000" />
+      <workItem from="1584609803712" duration="541000" />
+      <workItem from="1584610507118" duration="20000" />
+      <workItem from="1584610791346" duration="6554000" />
+      <workItem from="1584662094895" duration="9682000" />
+      <workItem from="1584733918411" duration="1074000" />
+      <workItem from="1584754474146" duration="283000" />
+      <workItem from="1584754830760" duration="1891000" />
+      <workItem from="1584762302701" duration="179000" />
+      <workItem from="1584762535807" duration="34788000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="537" y="276" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584552840716">
+      <screen x="0" y="23" width="2048" height="1059" />
+    </state>
+    <state x="537" y="276" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2048.1059@0.23.2048.1059" timestamp="1584552840716" />
+    <state width="1125" height="290" key="GridCell.Tab.0.bottom" timestamp="1585046141449">
+      <screen x="0" y="23" width="2048" height="1059" />
+    </state>
+    <state width="1125" height="290" key="GridCell.Tab.0.bottom/0.23.2048.1059@0.23.2048.1059" timestamp="1585046141449" />
+    <state width="1125" height="290" key="GridCell.Tab.0.center" timestamp="1585046141448">
+      <screen x="0" y="23" width="2048" height="1059" />
+    </state>
+    <state width="1125" height="290" key="GridCell.Tab.0.center/0.23.2048.1059@0.23.2048.1059" timestamp="1585046141448" />
+    <state width="1125" height="290" key="GridCell.Tab.0.left" timestamp="1585046141447">
+      <screen x="0" y="23" width="2048" height="1059" />
+    </state>
+    <state width="1125" height="290" key="GridCell.Tab.0.left/0.23.2048.1059@0.23.2048.1059" timestamp="1585046141447" />
+    <state width="1125" height="290" key="GridCell.Tab.0.right" timestamp="1585046141449">
+      <screen x="0" y="23" width="2048" height="1059" />
+    </state>
+    <state width="1125" height="290" key="GridCell.Tab.0.right/0.23.2048.1059@0.23.2048.1059" timestamp="1585046141449" />
+    <state x="820" y="261" key="SettingsEditor" timestamp="1584553020479">
+      <screen x="0" y="23" width="2048" height="1059" />
+    </state>
+    <state x="820" y="261" key="SettingsEditor/0.23.2048.1059@0.23.2048.1059" timestamp="1584553020479" />
+    <state x="701" y="384" key="com.intellij.ide.util.TipDialog" timestamp="1584762538362">
+      <screen x="0" y="23" width="2048" height="1059" />
+    </state>
+    <state x="701" y="384" key="com.intellij.ide.util.TipDialog/0.23.2048.1059@0.23.2048.1059" timestamp="1584762538362" />
+    <state x="1151" y="471" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1584754639480">
+      <screen x="0" y="23" width="2048" height="1059" />
+    </state>
+    <state x="1151" y="471" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.2048.1059@0.23.2048.1059" timestamp="1584754639480" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonShiyanlou$courses.coverage" NAME="courses Coverage Results" MODIFIED="1584734006433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python3基础语法" />
+    <SUITE FILE_PATH="coverage/pythonShiyanlou$ex05_01.coverage" NAME="ex05-01 Coverage Results" MODIFIED="1584829969052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python3基础语法" />
+    <SUITE FILE_PATH="coverage/pythonShiyanlou$calculation.coverage" NAME="calculation Coverage Results" MODIFIED="1584712927859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python3基础语法" />
+    <SUITE FILE_PATH="coverage/pythonShiyanlou$ex06_04.coverage" NAME="ex06-04 Coverage Results" MODIFIED="1584995119119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python3基础语法" />
+    <SUITE FILE_PATH="coverage/pythonShiyanlou$calculator.coverage" NAME="calculator Coverage Results" MODIFIED="1584787457968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python3基础语法" />
+    <SUITE FILE_PATH="coverage/pythonShiyanlou$ex05_03.coverage" NAME="ex05-03 Coverage Results" MODIFIED="1584894883667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python3基础语法" />
+    <SUITE FILE_PATH="coverage/pythonShiyanlou$ex02.coverage" NAME="ex02 Coverage Results" MODIFIED="1584611576942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonShiyanlou$ex06_03.coverage" NAME="ex06-03 Coverage Results" MODIFIED="1584965196980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python3基础语法" />
+    <SUITE FILE_PATH="coverage/pythonShiyanlou$dictest.coverage" NAME="dictest Coverage Results" MODIFIED="1584895183094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python3基础语法" />
+    <SUITE FILE_PATH="coverage/pythonShiyanlou$ex05_02.coverage" NAME="ex05-02 Coverage Results" MODIFIED="1584886339176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python3基础语法" />
+    <SUITE FILE_PATH="coverage/pythonShiyanlou$funcbugtest.coverage" NAME="funcbugtest Coverage Results" MODIFIED="1584929358345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python3基础语法" />
+    <SUITE FILE_PATH="coverage/pythonShiyanlou$ex06_02.coverage" NAME="ex06-02 Coverage Results" MODIFIED="1584927247079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python3基础语法" />
+    <SUITE FILE_PATH="coverage/pythonShiyanlou$ex03.coverage" NAME="ex03 Coverage Results" MODIFIED="1584677047175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python3基础语法" />
+    <SUITE FILE_PATH="coverage/pythonShiyanlou$ex04_05.coverage" NAME="ex04-05 Coverage Results" MODIFIED="1584784900161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python3基础语法" />
+    <SUITE FILE_PATH="coverage/pythonShiyanlou$ex04_03.coverage" NAME="ex04-03 Coverage Results" MODIFIED="1584787484118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python3基础语法" />
+    <SUITE FILE_PATH="coverage/pythonShiyanlou$listbugtest.coverage" NAME="listbugtest Coverage Results" MODIFIED="1584996215220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python3基础语法/louplus" />
+    <SUITE FILE_PATH="coverage/pythonShiyanlou$ex06_01.coverage" NAME="ex06-01 Coverage Results" MODIFIED="1584918528092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python3基础语法" />
+    <SUITE FILE_PATH="coverage/pythonShiyanlou$discussAge.coverage" NAME="discussAge Coverage Results" MODIFIED="1584678194256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python3基础语法" />
+    <SUITE FILE_PATH="coverage/pythonShiyanlou$ex04_02.coverage" NAME="ex04-02 Coverage Results" MODIFIED="1584680484458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python3基础语法" />
+    <SUITE FILE_PATH="coverage/pythonShiyanlou$extest.coverage" NAME="extest Coverage Results" MODIFIED="1584785511208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python3基础语法" />
+    <SUITE FILE_PATH="coverage/pythonShiyanlou$ex04.coverage" NAME="ex04 Coverage Results" MODIFIED="1584677720238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python3基础语法" />
+  </component>
+</project>
